@@ -1,4 +1,4 @@
-package java9;
+package by.java9;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
@@ -104,7 +104,6 @@ public class CompletableFutureTest {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
     }
 
     private static void delayedExecutor() {
@@ -119,4 +118,5 @@ public class CompletableFutureTest {
             e.printStackTrace();
         }
     }
+
 }
