@@ -31,3 +31,7 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+
+# AI for OpenIDE — local agent state (chat transcripts, memory, snapshots; may contain secrets).
+.aiforopenide/
+!.aiforopenide/config.json

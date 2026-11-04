@@ -616,11 +616,6 @@ try {
 4. **Rebalance Rate**
 5. **Размер партиций** - Горячие партиции
 6. **CPU / Memory на брокер**
-
-
-4. 
-    Under-replicated partitions, частота shrink/expand ISR, p99 latency запросов, consumer lag по группам.
-
 ---
 
 ## Пара слов про Т-Банк отдельно
